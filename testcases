@@ -1,0 +1,29 @@
+TESTCASE1:
+Enter the South and North cars:2 3
+crossing south to north  num of cars on bridge = 1
+crossing south to north  num of cars on bridge = 2
+crossing north to south  num of cars on bridge = 1
+crossing north to south  num of cars on bridge = 2
+crossing north to south  num of cars on bridge = 1
+
+--------------------------------
+Process exited after 18.02 seconds with return value 0
+
+
+
+TESTCASE2:
+Enter the South and North cars:5 6
+crossing south to north  num of cars on bridge = 1
+crossing south to north  num of cars on bridge = 2
+crossing south to north  num of cars on bridge = 3
+crossing south to north  num of cars on bridge = 4
+crossing south to north  num of cars on bridge = 5
+crossing north to south  num of cars on bridge = 1
+crossing north to south  num of cars on bridge = 2
+crossing north to south  num of cars on bridge = 3
+crossing north to south  num of cars on bridge = 4
+crossing north to south  num of cars on bridge = 5
+crossing north to south  num of cars on bridge = 1
+
+--------------------------------
+Process exited after 14.27 seconds with return value 0
